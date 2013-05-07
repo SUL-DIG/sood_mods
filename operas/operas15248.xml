@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Jerôme et Suzette</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Mansuy, Claude Charles</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+
+
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Amsterdam</placeTerm>
+				<placeTerm type="text">Noord Holland</placeTerm>
+				<placeTerm type="text">Netherlands</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Théâtre de l'Amstelstraat</placeTerm>
+			</place>
+			<dateOther type="premiere">1785</dateOther>
+		</originInfo>
+		<genre>Operas</genre>
+	</mods>

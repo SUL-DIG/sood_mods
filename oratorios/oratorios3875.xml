@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Le déstruction de Jéricho</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Rigel, Henri-Joseph</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Jean-Baptiste-Gabriel-Marie de Milcent</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Paris</placeTerm>
+
+				<placeTerm type="text">France</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Concert spirituel</placeTerm>
+			</place>
+			<dateOther type="premiere">1778</dateOther>
+		</originInfo>
+		<genre>Oratorios</genre>
+		<subject displayLabel="oratorio_subject">
+			<topic>The Destruction of Jericho</topic>
+		</subject>
+	</mods>

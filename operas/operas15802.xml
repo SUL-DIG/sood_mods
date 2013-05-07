@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Konrad Wallenrod</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Zelenski, Wladyslaw</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Sarnecki, Zygmunt</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Ossian, [James Macpherson]</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">L'viv</placeTerm>
+				<placeTerm type="text">L'vivs'ka Oblast</placeTerm>
+				<placeTerm type="text">Ukraine</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Hrabiego Fryderyka Skarbka</placeTerm>
+			</place>
+			<dateOther type="premiere">1885</dateOther>
+		</originInfo>
+		<genre>Operas</genre>
+	</mods>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Sara in Egitto</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Casini, Giovanni Maria</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Domenico Canavese</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Florence</placeTerm>
+				<placeTerm type="text">Toscana</placeTerm>
+				<placeTerm type="text">Italy</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Compagnia della Purificazione della Gloriosa Vergine Maria, e
+					di San Zanobi, detta di San Marco</placeTerm>
+			</place>
+			<dateOther type="premiere">1708</dateOther>
+		</originInfo>
+		<genre>Oratorios</genre>
+		<subject displayLabel="oratorio_subject">
+			<topic>Abraham and Sarah</topic>
+		</subject>
+	</mods>

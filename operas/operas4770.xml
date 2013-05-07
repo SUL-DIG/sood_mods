@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Das Herrgottslied</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Krausz, Michael</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Hardt-Warden, Bruno [Bruno Wradatsch]</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Vienna</placeTerm>
+
+				<placeTerm type="text">Austria</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Neues Wiener Schauspielehaus</placeTerm>
+			</place>
+			<dateOther type="premiere">1930</dateOther>
+		</originInfo>
+		<genre>Operas</genre>
+		<genre>Singspiel</genre>
+	</mods>

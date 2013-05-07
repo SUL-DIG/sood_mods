@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Oratorio de Noлl</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Savene, __</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Amédée Decampe</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Toulouse</placeTerm>
+				<placeTerm type="text">Haute-Garonne</placeTerm>
+				<placeTerm type="text">France</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Église paroissiale Notre-Dame de la Daurade</placeTerm>
+			</place>
+			<dateOther type="premiere">January 11, 1829</dateOther>
+		</originInfo>
+		<genre>Oratorios</genre>
+		<subject displayLabel="oratorio_subject">
+			<topic>Christmas</topic>
+		</subject>
+		<subject displayLabel="feast_month_day">
+			<temporal>December</temporal>
+			<temporal>25</temporal>
+		</subject>
+	</mods>

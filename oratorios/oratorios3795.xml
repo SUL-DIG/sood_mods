@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Il trittico francescano</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Refice, Licinio</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Emidio Mucci</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Assisi</placeTerm>
+				<placeTerm type="text">Umbria</placeTerm>
+				<placeTerm type="text">Italy</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Celebrazione del VII Centenario Francescano</placeTerm>
+			</place>
+			<dateOther type="premiere">1926</dateOther>
+		</originInfo>
+		<genre>Oratorios</genre>
+		<subject displayLabel="oratorio_subject">
+			<topic>Saint Francis of Assisi</topic>
+		</subject>
+		<subject displayLabel="feast_month_day">
+			<temporal>October</temporal>
+			<temporal>4</temporal>
+		</subject>
+	</mods>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Elijah (Elias)</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Mendelssohn-Bartholdy, Felix</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>William Bartholomew</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Julius Schubring</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Birmingham</placeTerm>
+				<placeTerm type="text">West Midlands</placeTerm>
+				<placeTerm type="text">United Kingdom</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Birmingham Triennial Festival</placeTerm>
+			</place>
+			<dateOther type="premiere">August 26, 1846</dateOther>
+		</originInfo>
+		<genre>Oratorios</genre>
+		<subject displayLabel="oratorio_subject">
+			<topic>Elijah</topic>
+		</subject>
+		<subject displayLabel="feast_month_day">
+			<temporal>July</temporal>
+			<temporal>20</temporal>
+		</subject>
+	</mods>

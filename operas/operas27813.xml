@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Quadri plastici</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Feo, Alberto De</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Corradi, Edmondo</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Naples</placeTerm>
+				<placeTerm type="text">Campania</placeTerm>
+				<placeTerm type="text">Italy</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Teatro Mercadante</placeTerm>
+			</place>
+			<dateOther type="premiere">1923</dateOther>
+		</originInfo>
+		<genre>Operas</genre>
+		<genre>Operetta</genre>
+	</mods>

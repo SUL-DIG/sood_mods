@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Mataswintha</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Scharwenka, Franz Xaver</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Koppel, Ernst</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Dazai, Osamu</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Weimar</placeTerm>
+				<placeTerm type="text">Thüringen</placeTerm>
+				<placeTerm type="text">Germany</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Grossherzogliches Hoftheater</placeTerm>
+			</place>
+			<dateOther type="premiere">1897</dateOther>
+		</originInfo>
+		<genre>Operas</genre>
+	</mods>

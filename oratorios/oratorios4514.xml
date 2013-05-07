@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Sint Joseph</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Schaik, Johannes Antonius Stephanus van </namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>J. H. Vaas</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>[Leo Tepe] Léon van Heemstede</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Utrecht</placeTerm>
+				<placeTerm type="text">Utrecht</placeTerm>
+				<placeTerm type="text">Netherlands</placeTerm>
+			</place>
+
+			<dateOther type="premiere">1898</dateOther>
+		</originInfo>
+		<genre>Oratorios</genre>
+		<subject displayLabel="oratorio_subject">
+			<topic>Saint Joseph</topic>
+		</subject>
+		<subject displayLabel="feast_month_day">
+			<temporal>March</temporal>
+			<temporal>19</temporal>
+		</subject>
+	</mods>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Saint François d'Assise</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>d'Ollone, Max</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<dateOther type="premiere">1897</dateOther>
+		</originInfo>
+		<genre>Oratorios</genre>
+		<subject displayLabel="oratorio_subject">
+			<topic>Saint Francis of Assisi</topic>
+		</subject>
+		<subject displayLabel="feast_month_day">
+			<temporal>October</temporal>
+			<temporal>4</temporal>
+		</subject>
+	</mods>

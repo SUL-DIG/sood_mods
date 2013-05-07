@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Penelope nella partenza da Sparta</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Carvalho, João de Sousa</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Martinelli, Gaetano</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Lisbon</placeTerm>
+				<placeTerm type="text">Lisboa</placeTerm>
+				<placeTerm type="text">Portugal</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Palácio de Ajuda</placeTerm>
+			</place>
+			<dateOther type="premiere">1782</dateOther>
+		</originInfo>
+		<genre>Operas</genre>
+	</mods>

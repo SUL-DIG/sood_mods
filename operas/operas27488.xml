@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Porsenna (Clelia)</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Schürmann, Georg Caspar</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Bressand, Friedrich Christian</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Brunswick</placeTerm>
+				<placeTerm type="text">Niedersachsen</placeTerm>
+				<placeTerm type="text">Germany</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Schauplatz</placeTerm>
+			</place>
+			<dateOther type="premiere">1718</dateOther>
+		</originInfo>
+		<genre>Operas</genre>
+		<genre>Singspiel</genre>
+	</mods>

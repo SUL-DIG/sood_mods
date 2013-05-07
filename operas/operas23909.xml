@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Löwen im Dorfe</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Storch, Anton Maria</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Henrion, Poly [Leopold Karl Dittmar Kohl von Kohlenegg]</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Vienna</placeTerm>
+
+				<placeTerm type="text">Austria</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Carltheater</placeTerm>
+			</place>
+			<dateOther type="premiere">1866</dateOther>
+		</originInfo>
+		<genre>Operas</genre>
+		<genre>Operetta</genre>
+	</mods>

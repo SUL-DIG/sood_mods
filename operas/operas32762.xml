@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>V pushchakh Poles'ya</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Bogatïryov, Anatoly Vasil'yevich</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Romanovich, Yevgeny</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Kraszewski, Józef Ignacy</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Minsk</placeTerm>
+				<placeTerm type="text">Minsk Oblast</placeTerm>
+				<placeTerm type="text">Belarus</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Belorusskiy Teatr Operï i Baleta</placeTerm>
+			</place>
+			<dateOther type="premiere">1939</dateOther>
+		</originInfo>
+		<genre>Operas</genre>
+	</mods>

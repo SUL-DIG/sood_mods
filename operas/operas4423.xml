@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Cyrano de Bergerac</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Tamberg, Eino</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Kross, Jaan</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Cervantes Saavedra, Miguel de</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Tallinn</placeTerm>
+				<placeTerm type="text">Harju</placeTerm>
+				<placeTerm type="text">Estonia</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Teatr Estoniya</placeTerm>
+			</place>
+			<dateOther type="premiere">1974</dateOther>
+		</originInfo>
+		<genre>Operas</genre>
+	</mods>

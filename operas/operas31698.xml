@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>The Wild Swans</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Bingham, Susan Hulsman</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Bingham, Susan Hulsman</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Andersen, Hans Christian</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">New Haven</placeTerm>
+				<placeTerm type="text">Connecticut</placeTerm>
+				<placeTerm type="text">United States</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Worthington Hooker Elementary School</placeTerm>
+			</place>
+			<dateOther type="premiere">1988</dateOther>
+		</originInfo>
+		<genre>Operas</genre>
+	</mods>

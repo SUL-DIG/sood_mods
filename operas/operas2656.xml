@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>Bär und Pascha</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Reuling, Wilhelm</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Scribe, Eugène</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Saintine, Xavier [Joseph-Xavier Boniface]</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Vienna</placeTerm>
+
+				<placeTerm type="text">Austria</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Kärntnertortheater</placeTerm>
+			</place>
+			<dateOther type="premiere">1833</dateOther>
+		</originInfo>
+		<genre>Operas</genre>
+		<genre>Operetta</genre>
+	</mods>

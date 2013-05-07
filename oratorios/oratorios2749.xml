@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+		<titleInfo>
+			<title>La fondatione dell'Ordine de' Servi di Maria</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Lulier, Giovanni Lorenzo</namePart>
+			<role>
+				<roleTerm>Composer</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Cammillo Landi</namePart>
+			<role>
+				<roleTerm>Librettist/Literary Source</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo displayLabel="premiere">
+			<place>
+				<placeTerm type="text">Todi</placeTerm>
+				<placeTerm type="text">Umbria</placeTerm>
+				<placeTerm type="text">Italy</placeTerm>
+			</place>
+
+			<dateOther type="premiere">May 1699</dateOther>
+		</originInfo>
+		<genre>Oratorios</genre>
+		<subject displayLabel="oratorio_subject">
+			<topic>The Seven Founders of the Servite Order</topic>
+		</subject>
+		<subject displayLabel="feast_month_day">
+			<temporal>February</temporal>
+			<temporal>17</temporal>
+		</subject>
+	</mods>
